@@ -1,0 +1,56 @@
+[
+    {
+
+        "id": "1",
+        "name": "Place One",
+        "description": "This is the full description of the office location.",
+        "url": "http://example.com",
+        "image": "http://example.com/image.jpg",
+        "keywords": "new york",
+	    "streetAddress": "1234 Street Address",
+	    "addressLocality": "New York",
+	    "addressRegion": "NY",
+	    "postalCode": "10001",
+	    "telephone": "555-555-5555",
+	    "email": "info@example.com",
+		"map": "http://example.com/map.html",
+		"latitude": "42.8035",
+		"longitude": "-106.2245"
+    },
+    {
+
+        "id": "2",
+        "name": "Place Two",
+        "description": "This is the full description of the office location.",
+        "url": "http://example.com",
+        "image": "http://example.com/image.jpg",
+        "keywords": "san francisco, california, main office",
+	    "streetAddress": "1234 Street Address",
+	    "addressLocality": "San Francisco",
+	    "addressRegion": "CA",
+	    "postalCode": "900002",
+	    "telephone": "555-555-5555",
+	    "email": "info@example.com",
+		"map": "http://example.com/map.html",
+		"latitude": "42.8035",
+		"longitude": "-106.2245"
+    },
+    {
+
+        "id": "3",
+        "name": "Place Three",
+        "description": "This is the full description of the office location.",
+        "url": "http://example.com",
+        "image": "http://example.com/image.jpg",
+        "keywords": "seattle, washington, main office",
+	    "streetAddress": "1234 Street Address",
+	    "addressLocality": "Seattle",
+	    "addressRegion": "WA",
+	    "postalCode": "978888",
+	    "telephone": "555-555-5555",
+	    "email": "info@example.com",
+		"map": "http://example.com/map.html",
+		"latitude": "42.8035",
+		"longitude": "-106.2245"
+    }    
+]
