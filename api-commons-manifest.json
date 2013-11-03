@@ -1,0 +1,13 @@
+{
+    "apis": [
+        {
+            "name": "Places",
+            "description": "This is a simple API specification for a listing of places.",
+            "url": "https://github.com/ongithub/places/blob/gh-pages/places",
+            "type": "swagger",
+            "image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-places.png",
+            "keywords": "places, locations"
+        }
+    ],
+    "updated": "11/03/2013"
+}
