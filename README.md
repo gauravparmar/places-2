@@ -1,6 +1,6 @@
-Office
+Places
 =======
 
-This is a demo office api.
+This is a demo places api.
 
-Visit site at: [http://ongithub.github.io/office/](http://ongithub.github.io/office/).
+Visit site at: [http://ongithub.github.io/places/](http://ongithub.github.io/places/).
